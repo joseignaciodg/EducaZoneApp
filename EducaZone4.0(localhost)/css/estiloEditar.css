@@ -1,0 +1,31 @@
+.editar_profesor{
+	position: relative;
+}
+
+.contenido{
+	position: relative;
+	margin-left: 300px;
+}
+input.edit{
+  width:70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.boton{
+	margin-left: 300px;
+}
+
+button.submit{
+  background-color: #31A36E;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  margin-bottom: 20px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+}
